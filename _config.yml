@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "images/photo.png"
   name             : "Maria Ludovica Isani"  
   bio              : "I am a first year PhD student in Statistics at Bocconi University, Milan. \nMy email address is maria.isani@phd.unibocconi.it"
   location         : "Milan"
