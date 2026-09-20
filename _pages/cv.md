@@ -5,8 +5,6 @@ permalink: /cv/
 author_profile: true
 ---
 
-{% include base_path %}
-
 Education
 ======
 * Ph.D in Statistics and Computer Science, Bocconi University, 2026-Current
