@@ -17,6 +17,7 @@ Research experience
 ======
 * Sep 2025- Aug 2026: Research Assistant
   *University of Bologna, Bologna , Italy
+  
 *March 2025- May 2025: Research intership For Master Thesis
   *International Institute for Applied System Analysis, Vienna, Austria
 
@@ -28,6 +29,7 @@ Skills
 Publications
 ======
 *Omenti, R., Isani, M. L., Minardi, S., & Barban, N. (2026, June). Who Benefits and Who Is Replaced? Demographic Patterns of Generative AI Exposure in the United States. In Scientific Meeting of the Italian Statistical Society (pp. 145-150). Cham: Springer Nature Switzerland.
+
 *Omenti, R., Isani, M. L., Minardi, S., & Barban, N. (2026, June). Penetration of Generative Artificial Intelligence in Europe: Demographic and Spatial Heterogeneities. In Scientific Meeting of the Italian Statistical Society (pp. 137-144). Cham: Springer Nature Switzerland.
 
   
