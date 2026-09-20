@@ -11,54 +11,26 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Statistics and Computer Science, Bocconi University, 2026-Current
+* M.S. in Statistical Sciences, University of Bologna, 2023-2025
+* B.S. in Statistical Sciences, University Of Bologna, 2020-2023
 
-Work experience
+Research experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Sep 2025- Aug 2026: Research Assistant
+  *University of Bologna, Bologna , Italy
+*March 2025- May 2025: Research intership For Master Thesis
+  *International Institute for Applied System Analysis, Vienna, Austria
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+*Languages: Italian (Native), English (C1 CEFR)
+*Programming: R, Python, SAS, STATA
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+*Omenti, R., Isani, M. L., Minardi, S., & Barban, N. (2026, June). Who Benefits and Who Is Replaced? Demographic Patterns of Generative AI Exposure in the United States. In Scientific Meeting of the Italian Statistical Society (pp. 145-150). Cham: Springer Nature Switzerland.
+*Omenti, R., Isani, M. L., Minardi, S., & Barban, N. (2026, June). Penetration of Generative Artificial Intelligence in Europe: Demographic and Spatial Heterogeneities. In Scientific Meeting of the Italian Statistical Society (pp. 137-144). Cham: Springer Nature Switzerland.
+
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+
